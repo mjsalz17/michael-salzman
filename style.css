@@ -1,0 +1,13 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: lemonchiffons
+a {
+    color: black;
+    font font-weight: bold;
+    text-decoration: none; /* get rid of underline */
+}
+h1 {color: blue; }
+a:hover {opacity: 0.7; color: deeppink; 
+}
+
+/* Change the link color on hover */
